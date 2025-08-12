@@ -21,8 +21,8 @@ Automatic PDF Renamer is a lightweight macOS menu bar utility designed for resea
 
 ## Installation
 
-### Option 1: Download Release
-1. Download the latest release from [Releases](../../releases)
+### Option 1: Download Repository
+1. Download the latest repository version
 2. Unzip and drag `Automatic PDF Renamer.app` to Applications folder
 3. Launch from Applications or Spotlight
 
